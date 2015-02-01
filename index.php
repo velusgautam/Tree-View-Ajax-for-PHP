@@ -1,5 +1,5 @@
 <?php
-/*Ajax Tree View*/
-$db ="";
+/*Ajax Tree View PHP home page*/
+$db =""; /*Database Details*/
 $data ="";
 ?>
