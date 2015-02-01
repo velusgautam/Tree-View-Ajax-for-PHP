@@ -5,9 +5,9 @@
 ?>
 <table class="table">
 	<tr>
-		<td class="col-lg-8"> EMPLOYEE(S) NAME</td>
-		<td colspan="2" class="dashDetails"> PROMOTION SNAPSHOT</td>
-		<td class="dashDetails"> REWARDS</td>
+		<td class="col-lg-8">Name</td>
+		<td colspan="2" class="dashDetails"> Edit</td>
+		<td class="dashDetails"> Delete</td>
 	</tr>
 
 </table>
